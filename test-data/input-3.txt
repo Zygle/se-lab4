@@ -1,0 +1,7 @@
+# Create a ship with small torpedo capacity in each store
+GT4500,2,0,2,0
+TORPEDO,SINGLE  # should fire from the primary store
+TORPEDO,SINGLE  # should fire from the secondary store
+TORPEDO,SINGLE  # should fire from the primary store
+TORPEDO,SINGLE  # should fire from the secondary store
+TORPEDO,SINGLE  # both stores are empty, should fail
