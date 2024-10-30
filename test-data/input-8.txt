@@ -1,0 +1,4 @@
+# Create a ship with primary store full and operational, secondary store faulty
+GT4500,10,0,10,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
